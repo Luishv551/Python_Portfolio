@@ -1,0 +1,80 @@
+date,Unnamed: 1,name_1,name_2,asset_class,Sector,currency,shares,price,amount,event
+08/01/2021,HD-US,HD,"Home Depot, Inc.",Public Equities,Retail Trade,USD,42.0,269.09,11301.78,Subscription
+13/01/2021,QSR-US,QSR,Restaurant Brands International Inc,Public Equities,Consumer Services,USD,420.0,63.18,26535.6,Subscription
+28/01/2021,,Real Estate Company,,Real Estate,Real Estate,USD,,,100000.0,Subscription
+16/02/2021,GOOGL-US,GOOGL,Alphabet Inc. Class A,Public Equities,Technology Services,USD,104.0,105.534996,10975.63958,Subscription
+10/03/2021,ABI-BE,ABI.BR,Anheuser-Busch InBev SA/NV,Public Equities,Consumer Non-Durables,EUR,400.0,53.14,21256.0,Subscription
+12/03/2021,HD-US,HD,"Home Depot, Inc.",Public Equities,Retail Trade,USD,-25.0,273.1,-6827.5,Redemption
+30/03/2021,TSLA-US,TSLA,Tesla Inc,Public Equities,Consumer Durables,USD,264.0,211.87334,55934.56176,Subscription
+07/04/2021,QSR-US,QSR,Restaurant Brands International Inc,Public Equities,Consumer Services,USD,-11.0,66.56,-732.16,Redemption
+13/04/2021,GOOGL-US,GOOGL,Alphabet Inc. Class A,Public Equities,Technology Services,USD,189.0,112.7215,21304.3635,Subscription
+22/04/2021,TSLA-US,TSLA,Tesla Inc,Public Equities,Consumer Durables,USD,486.0,239.89667,116589.7816,Subscription
+27/04/2021,HD-US,HD,"Home Depot, Inc.",Public Equities,Retail Trade,USD,481.0,320.59,154203.79,Subscription
+07/05/2021,QSR-US,QSR,Restaurant Brands International Inc,Public Equities,Consumer Services,USD,94.0,69.48,6531.12,Subscription
+18/05/2021,,Predios LTDA,,Real Estate,Real Estate,BRL,,,200000.0,Subscription
+19/05/2021,,VC Company,,PE / VC,PE / VC,CAD,,,100000.0,Subscription
+20/05/2021,,PE Company,,PE / VC,PE / VC,JPY,,,670000.0,Subscription
+20/05/2021,GOOGL-US,GOOGL,Alphabet Inc. Class A,Public Equities,Technology Services,USD,403.0,115.347496,46485.04089,Subscription
+21/05/2021,GOOGL-US,GOOGL,Alphabet Inc. Class A,Public Equities,Technology Services,USD,-27.0,114.7065,-3097.0755,Redemption
+25/05/2021,,Private Equity Investments,,PE / VC,PE / VC,EUR,,,400000.0,Subscription
+25/05/2021,ABI-BE,ABI.BR,Anheuser-Busch InBev SA/NV,Public Equities,Consumer Non-Durables,EUR,-8.0,61.91,-495.28,Redemption
+01/06/2021,ABI-BE,ABI.BR,Anheuser-Busch InBev SA/NV,Public Equities,Consumer Non-Durables,EUR,111.0,62.38,6924.18,Subscription
+11/06/2021,TSLA-US,TSLA,Tesla Inc,Public Equities,Consumer Durables,USD,-26.0,203.29668,-5285.71368,Redemption
+18/06/2021,HD-US,HD,"Home Depot, Inc.",Public Equities,Retail Trade,USD,188.0,302.61,56890.68,Subscription
+25/06/2021,QSR-US,QSR,Restaurant Brands International Inc,Public Equities,Consumer Services,USD,342.0,65.11,22267.62,Subscription
+29/06/2021,ABI-BE,ABI.BR,Anheuser-Busch InBev SA/NV,Public Equities,Consumer Non-Durables,EUR,11.0,61.5,676.5,Subscription
+01/07/2021,PETR3-BR,PETR3.SA,Petroleo Brasileiro SA,Public Equities,Energy Minerals,BRL,52.0,29.76,1547.52,Subscription
+06/07/2021,,Investment Fund,,Liquid Funds,Liquid Funds,USD,100.0,1000.0,100000.0,Subscription
+06/07/2021,HD-US,HD,"Home Depot, Inc.",Public Equities,Retail Trade,USD,-23.0,322.7,-7422.1,Redemption
+13/07/2021,TSLA-US,TSLA,Tesla Inc,Public Equities,Consumer Durables,USD,388.0,222.84666,86464.50408,Subscription
+14/07/2021,IBM-US,IBM,International Business Machines Corporation,Public Equities,Technology Services,USD,331.0,139.82,46280.42,Subscription
+14/07/2021,PETR3-BR,PETR3.SA,Petroleo Brasileiro SA,Public Equities,Energy Minerals,BRL,302.0,28.37,8567.74,Subscription
+26/07/2021,IBM-US,IBM,International Business Machines Corporation,Public Equities,Technology Services,USD,417.0,142.77,59535.09,Subscription
+10/08/2021,,Brazilian Fund,,Liquid Funds,Liquid Funds,BRL,200.0,1000.0,200000.0,Subscription
+11/08/2021,PETR3-BR,PETR3.SA,Petroleo Brasileiro SA,Public Equities,Energy Minerals,BRL,270.0,29.3,7911.0,Subscription
+24/08/2021,PETR3-BR,PETR3.SA,Petroleo Brasileiro SA,Public Equities,Energy Minerals,BRL,-7.0,28.38,-198.66,Redemption
+25/08/2021,INTC-US,INTC,Intel Corporation,Public Equities,Electronic Technology,USD,429.0,53.81,23084.49,Subscription
+31/08/2021,,Indian Fund,,Liquid Funds,Liquid Funds,INR,100.0,1000.0,100000.0,Subscription
+15/09/2021,INTC-US,INTC,Intel Corporation,Public Equities,Electronic Technology,USD,250.0,55.12,13780.0,Subscription
+16/09/2021,HD-US,HD,"Home Depot, Inc.",Public Equities,Retail Trade,USD,461.0,336.39,155075.79,Subscription
+29/09/2021,QSR-US,QSR,Restaurant Brands International Inc,Public Equities,Consumer Services,USD,279.0,61.64,17197.56,Subscription
+20/10/2021,IBM-US,IBM,International Business Machines Corporation,Public Equities,Technology Services,USD,199.0,141.9,28238.1,Subscription
+21/10/2021,INTC-US,INTC,Intel Corporation,Public Equities,Electronic Technology,USD,103.0,56.0,5768.0,Subscription
+26/11/2021,QSR-US,QSR,Restaurant Brands International Inc,Public Equities,Consumer Services,USD,-7.0,57.99,-405.93,Redemption
+29/11/2021,ABI-BE,ABI.BR,Anheuser-Busch InBev SA/NV,Public Equities,Consumer Non-Durables,EUR,139.0,50.84,7066.76,Subscription
+22/12/2021,ABI-BE,ABI.BR,Anheuser-Busch InBev SA/NV,Public Equities,Consumer Non-Durables,EUR,-20.0,52.93,-1058.6,Redemption
+12/01/2022,PETR3-BR,PETR3.SA,Petroleo Brasileiro SA,Public Equities,Energy Minerals,BRL,-5.0,33.05,-165.25,Redemption
+24/01/2022,PETR3-BR,PETR3.SA,Petroleo Brasileiro SA,Public Equities,Energy Minerals,BRL,488.0,34.65,16909.2,Subscription
+01/02/2022,IBM-US,IBM,International Business Machines Corporation,Public Equities,Technology Services,USD,-22.0,135.53,-2981.66,Redemption
+08/02/2022,IBM-US,IBM,International Business Machines Corporation,Public Equities,Technology Services,USD,326.0,137.02,44668.52,Subscription
+10/02/2022,INTC-US,INTC,Intel Corporation,Public Equities,Electronic Technology,USD,108.0,48.86,5276.88,Subscription
+07/03/2022,INTC-US,INTC,Intel Corporation,Public Equities,Electronic Technology,USD,-11.0,47.68,-524.48,Redemption
+15/03/2022,SONY-US,SONY,Sony Group Corporation Sponsored ADR,Public Equities,Electronic Technology,USD,37.0,98.1,3629.7,Subscription
+25/03/2022,VALE3-BR,VALE3.SA,Vale S.A.,Public Equities,Non-Energy Minerals,BRL,167.0,95.23,15903.41,Subscription
+07/04/2022,GOOGL-US,GOOGL,Alphabet Inc. Class A,Public Equities,Technology Services,USD,99.0,135.8885,13452.9615,Subscription
+05/05/2022,TSLA-US,TSLA,Tesla Inc,Public Equities,Consumer Durables,USD,74.0,291.09335,21540.9079,Subscription
+16/05/2022,HD-US,HD,"Home Depot, Inc.",Public Equities,Retail Trade,USD,46.0,295.99,13615.54,Subscription
+18/05/2022,,Predios LTDA,,Real Estate,Real Estate,BRL,0.057258,,12000.0,Subscription
+22/06/2022,SONY-US,SONY,Sony Group Corporation Sponsored ADR,Public Equities,Electronic Technology,USD,423.0,83.75,35426.25,Subscription
+28/06/2022,SONY-US,SONY,Sony Group Corporation Sponsored ADR,Public Equities,Electronic Technology,USD,-15.0,83.19,-1247.85,Redemption
+30/06/2022,,Brazilian Fund,,Liquid Funds,Liquid Funds,BRL,100.0,987.6047,98760.47,Subscription
+05/07/2022,VALE3-BR,VALE3.SA,Vale S.A.,Public Equities,Non-Energy Minerals,BRL,-18.0,74.3,-1337.4,Redemption
+06/07/2022,SONY-US,SONY,Sony Group Corporation Sponsored ADR,Public Equities,Electronic Technology,USD,39.0,80.33,3132.87,Subscription
+12/07/2022,VALE3-BR,VALE3.SA,Vale S.A.,Public Equities,Non-Energy Minerals,BRL,338.0,73.05,24690.9,Subscription
+12/07/2022,QSR-US,QSR,Restaurant Brands International Inc,Public Equities,Consumer Services,USD,72.0,51.11,3679.92,Subscription
+14/07/2022,SONY-US,SONY,Sony Group Corporation Sponsored ADR,Public Equities,Electronic Technology,USD,399.0,81.1,32358.9,Subscription
+20/07/2022,VALE3-BR,VALE3.SA,Vale S.A.,Public Equities,Non-Energy Minerals,BRL,424.0,67.39,28573.36,Subscription
+02/08/2022,ABI-BE,ABI.BR,Anheuser-Busch InBev SA/NV,Public Equities,Consumer Non-Durables,EUR,91.0,50.75,4618.25,Subscription
+18/08/2022,PETR3-BR,PETR3.SA,Petroleo Brasileiro SA,Public Equities,Energy Minerals,BRL,427.0,36.81,15717.87,Subscription
+18/08/2022,VALE3-BR,VALE3.SA,Vale S.A.,Public Equities,Non-Energy Minerals,BRL,369.0,67.72,24988.68,Subscription
+24/08/2022,ABI-BE,ABI.BR,Anheuser-Busch InBev SA/NV,Public Equities,Consumer Non-Durables,EUR,100.0,52.25,5225.0,Subscription
+14/09/2022,PETR3-BR,PETR3.SA,Petroleo Brasileiro SA,Public Equities,Energy Minerals,BRL,62.0,34.68,2150.16,Subscription
+21/09/2022,GOOGL-US,GOOGL,Alphabet Inc. Class A,Public Equities,Technology Services,USD,22.0,99.28,2184.16,Subscription
+23/09/2022,IBM-US,IBM,International Business Machines Corporation,Public Equities,Technology Services,USD,37.0,122.71,4540.27,Subscription
+27/09/2022,IBM-US,IBM,International Business Machines Corporation,Public Equities,Technology Services,USD,359.0,121.74,43704.66,Subscription
+26/10/2022,INTC-US,INTC,Intel Corporation,Public Equities,Electronic Technology,USD,199.0,27.21,5414.79,Subscription
+01/12/2022,GOOGL-US,GOOGL,Alphabet Inc. Class A,Public Equities,Technology Services,USD,-9.0,100.99,-908.91,Redemption
+15/12/2022,TSLA-US,TSLA,Tesla Inc,Public Equities,Consumer Durables,USD,104.0,157.67,16397.68,Subscription
+27/12/2022,TSLA-US,TSLA,Tesla Inc,Public Equities,Consumer Durables,USD,-9.0,109.1,-981.9,Redemption
+30/12/2022,,Indian Fund,,Liquid Funds,Liquid Funds,INR,-100.0,1281.186,-128118.6,Redemption
+27/01/2023,INTC-US,INTC,Intel Corporation,Public Equities,Electronic Technology,USD,52.0,28.16,1464.32,Subscription
